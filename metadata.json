@@ -1,0 +1,8 @@
+{
+  "name": "Namma Pustaka mind",
+  "description": "A digital library app for students and teachers with QR issuing, role-based registers, and AI-powered Kannada book summaries.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}

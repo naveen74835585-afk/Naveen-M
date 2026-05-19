@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Namma Pustaka</string>
+    <string name="title_activity_main">Namma Pustaka</string>
+    <string name="package_name">com.nammapustaka.app</string>
+    <string name="custom_url_scheme">com.nammapustaka.app</string>
+</resources>
